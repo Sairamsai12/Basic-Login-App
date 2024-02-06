@@ -1,0 +1,17 @@
+/* Write your CSS here */
+.home-container {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.display-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-image: linear-gradient(to top, #b5b9ff, #303150);
+  width: 60%;
+  height: 60vh;
+  border-radius: 30px;
+}
